@@ -1,4 +1,4 @@
-# flutter_application_1
+# Onboarding App
 
 Projeto de um aplicativo bancário com tela inicial, onboarding e a tela principal.
 
